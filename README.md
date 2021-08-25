@@ -6,7 +6,7 @@ Framework7 app created with following options:
 
 ```
 {
-  "cwd": "E:\\A KULIAH\\SEMESTER 7\\Hybrid Mobile Programming\\WEEK 2\\f7movie",
+  "cwd": "E:\",
   "type": [
     "web"
   ],
